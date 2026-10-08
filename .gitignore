@@ -1,0 +1,12 @@
+# Compiled binaries and object files
+*.o
+ls
+*.exe
+*.core
+
+# Temporary and editor files
+*~
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
